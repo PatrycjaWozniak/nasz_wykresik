@@ -1,4 +1,9 @@
 print("hello")
 install.packages("tidyverse")
 
+install.packages("ggplot2")
+library(mpg)
+
+# Ładowanie pakietu ggplot2
+library(ggplot2)
 
